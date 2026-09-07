@@ -4,4 +4,4 @@
 
 
 
-<img src="https://github.com/user-attachments/assets/44ba9539-3a01-4ec5-84a7-2cc74b2eb170" alt="Lace Border Header" width="100%" style="display: block; margin: 0; padding: 0;">
+<img src="https://github.com/user-attachments/assets/44ba9539-3a01-4ec5-84a7-2cc74b2eb170" alt="Lace Border Header" width="95%" style="display: block; margin: 0; padding: 0;">

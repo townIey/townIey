@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com" alt="Lace Border Header" width="100%">
+  <img src="[https://github.com](https://files.catbox.moe/ounlkp.png)" alt="Lace Border Header" width="100%">
 </p>
 
 <p align="center">

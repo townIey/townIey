@@ -9,5 +9,6 @@
 ![Profile Views](https://komarev.com)
 
 
-
+<p align="center">
+<img src="https://hits.sh/github.com/haidaware/hits.svg?label=home&color=719BDE&labelColor=D8E6DC"> <image src="https://files.catbox.moe/aeln15.gif"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/townIey?
 

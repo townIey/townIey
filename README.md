@@ -4,8 +4,12 @@
 <img src="https://hits.sh/github.com/haidaware/hits.svg?label=lander&color=719BDE&labelColor=D8E6DC"> 
 
 <p align=left">
-<img src="https://github.com/user-attachments/assets/76e89915-58c0-4e13-a547-1f17273f4564" alt="Lace Border Header" width="270" style="display: block; align="left"margin: 0; padding: 0;">
-
+<img src="https://github.com/user-attachments/assets/dac485a9-1b03-46a3-9969-b520941a068f" width="140" height="140"/>
+<p align=left">
+<img src="https://github.com/user-attachments/assets/dac485a9-1b03-46a3-9969-b520941a068f" width="140" height="140"/>
+<p align=left">
+<img src="https://github.com/user-attachments/assets/dac485a9-1b03-46a3-9969-b520941a068f" width="140" height="140"/>
+  
 <img width=1190 src="https://github.com/user-attachments/assets/40188806-b12b-44e1-a992-eb1b81824442" />
 
 

@@ -2,11 +2,17 @@
 <p align="center">
 <img src="https://hits.sh/github.com/haidaware/hits.svg?label=home&color=719BDE&labelColor=D8E6DC"> <image src="https://files.catbox.moe/aeln15.gif"> 
 <img src="https://hits.sh/github.com/haidaware/hits.svg?label=lander&color=719BDE&labelColor=D8E6DC"> 
+  <p align=left">
+<img src="https://github.com/user-attachments/assets/dac485a9-1b03-46a3-9969-b520941a068f" alt="" width="140">
+ <p align=left">
+<img src="https://github.com/user-attachments/assets/8b7b174b-f8dc-4b97-a63f-bfb594be2d84" alt="" width="140">
 
 <p align=left">
 <img src="https://github.com/user-attachments/assets/dac485a9-1b03-46a3-9969-b520941a068f" width="140" height="140"/>
+
 <p align=left">
 <img src="https://github.com/user-attachments/assets/8b7b174b-f8dc-4b97-a63f-bfb594be2d84" width="140" height="140"/>
+
 <p align=left">
 <img src="https://github.com/user-attachments/assets/ebae2c16-2760-4ae4-9504-2b19c665e084" width="140" height="140"/>
   
